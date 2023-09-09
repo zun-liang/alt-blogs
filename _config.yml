@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Dev Blogs
+name: Dev Blog
 
 # Short bio or description (displayed in the header)
-description: 
+description: learning journal and collections of coding resources
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/107293493?s=400&u=543d5768fc0f6c4eb309f0fe7a5a5a185374b95b&v=4
@@ -21,12 +21,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: 
+  github: zun-liang
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
