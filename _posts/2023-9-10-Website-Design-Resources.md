@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Website Design Resources
-permalink: /website-design-resources/
 ---
 
 Here is a list of website design resources which I find helpful.
