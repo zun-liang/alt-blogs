@@ -18,7 +18,10 @@ html {
 }
 
 body {
-	background: $yellow;
+	background: 
+	linear-gradient(90deg, $yellow calc(25px - 1px), transparent 1%) center / 25px 25px,
+        linear-gradient($yellow calc(25px - 1px), transparent 1%) center / 25px 25px,
+        $white;
   font: 18px/1.4 $roboto;
   color: $darkGray;
 }
@@ -69,11 +72,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $brown;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $brown;
   }
 }
 
@@ -233,7 +236,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $brown;
     }
   }
 }
@@ -274,9 +277,6 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
 }
 
 footer {
