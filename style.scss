@@ -19,8 +19,8 @@ html {
 
 body {
 	background: 
-	linear-gradient(90deg, $yellow calc(30px - 3px), transparent 1%) center / 25px 25px,
-        linear-gradient($yellow calc(25px - 5px), transparent 1%) center / 25px 25px,
+	linear-gradient(90deg, $yellow calc(30px - 3px), transparent 1%) center / 30px 30px,
+        linear-gradient($yellow calc(30px - 3px), transparent 1%) center / 30px 30px,
         $white;
   font: 18px/1.4 $helveticaNeue;
   color: $darkGray;
@@ -162,7 +162,7 @@ img {
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
-    text-align: center;
+    text-align: left;
   }
 }
 
@@ -173,9 +173,6 @@ img {
   margin-right: 15px;
 
   @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
   }
 
   img {
@@ -187,9 +184,6 @@ img {
   float: left;
 
   @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
   }
 }
 
@@ -221,7 +215,7 @@ nav {
   font-size: 18px;
 
   @include mobile {
-    float: none;
+    float: left;
     margin-top: 9px;
     display: block;
     font-size: 16px;
@@ -246,7 +240,7 @@ nav {
 //
 
 .posts > .post {
-  padding-bottom: 2em;
+  padding: 2em 1em;
   border-bottom: 1px solid $lightGray;
 }
 
