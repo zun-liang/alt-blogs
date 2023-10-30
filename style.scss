@@ -225,7 +225,7 @@ nav {
     letter-spacing: 1px;
 
     @include mobile {
-      margin: 5px 10px 5px 0;
+      margin: 5px 15px 5px 0;
       color: $brown;
     }
   }
@@ -237,7 +237,7 @@ nav {
 
 .posts > .post {
   padding: 0 1em 2em;
-  border-bottom: 1px solid $brown;
+  border-bottom: 1px solid $white;
 }
 
 .posts > .post:last-child {
@@ -279,6 +279,9 @@ nav {
   letter-spacing: 1px;
 }
 
+footer {
+  margin-top: 30px;
+}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
