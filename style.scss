@@ -162,6 +162,7 @@ img {
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
+  padding: 20px;
     text-align: left;
   }
 }
@@ -240,7 +241,7 @@ nav {
 //
 
 .posts > .post {
-  padding: 2em 1em;
+  padding: 0 1em 2em;
   border-bottom: 1px solid $lightGray;
 }
 
@@ -250,6 +251,7 @@ nav {
 }
 
 .post {
+  padding: 0 1em 2em;
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
@@ -271,6 +273,10 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 1em;
 }
 
 footer {
