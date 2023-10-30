@@ -19,9 +19,9 @@ html {
 
 body {
 	background: 
-	linear-gradient(90deg, $yellow calc(25px - 1px), transparent 1%) center / 25px 25px,
-        linear-gradient($yellow calc(25px - 1px), transparent 1%) center / 25px 25px,
-        $gray;
+	linear-gradient(90deg, $yellow calc(25px - 5px), transparent 1%) center / 25px 25px,
+        linear-gradient($yellow calc(25px - 5px), transparent 1%) center / 25px 25px,
+        $white;
   font: 18px/1.4 $georgia;
   color: $darkGray;
 }
