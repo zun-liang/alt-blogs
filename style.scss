@@ -154,7 +154,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 
 .masthead {
@@ -162,8 +162,8 @@ img {
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
-  padding: 20px;
-    text-align: left;
+  padding: 30px 20px;
+  text-align: left;
   }
 }
 
@@ -183,13 +183,13 @@ img {
 
 .site-info {
   float: left;
-
+margin: 20px;
   @include mobile {
   }
 }
 
 .site-name {
-  margin: 0;
+	margin: 10px;
   color: $darkGray;
   cursor: pointer;
   font-family: $helvetica;
@@ -199,7 +199,6 @@ img {
 }
 
 .site-description {
-  margin: -5px 0 0 0;
   color: $gray;
   font-size: 16px;
   font-family: $helveticaNeue;
@@ -251,7 +250,7 @@ nav {
 }
 
 .post {
-  padding: 0 1em 2em;
+  padding: 2em;
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
@@ -271,6 +270,11 @@ nav {
   }
 }
 
+.page {
+	margin: 2em;
+	line-height: 2;
+	font-family: $georgia;
+}
 .wrapper-footer {
   margin-top: 50px;
 	display: flex;
