@@ -156,7 +156,6 @@ img {
 .wrapper-masthead {
 margin-top: 10px;
   margin-bottom: 20px;
-	border: 1px solid $white;
 }
 
 .masthead {
@@ -164,6 +163,7 @@ margin-top: 10px;
   @include mobile {
   padding: 20px;
   text-align: left;
+	border-bottom: 1px solid $white;
   }
 }
 
@@ -183,9 +183,9 @@ margin-top: 10px;
 
 .site-info {
   float: left;
-margin: -40px 0;
+margin: -25px 0;
   @include mobile {
-margin: -20px 0 0;
+margin: -15px 0 0;
   }
 }
 
@@ -216,8 +216,7 @@ nav {
 
   @include mobile {
     float: left;
-    margin-top: 9px;
-	  margin-left: -10px;
+    margin-top: 20px;
     display: block;
     font-size: 18px;
   }
@@ -230,7 +229,7 @@ nav {
     letter-spacing: 1px;
 
     @include mobile {
-      margin: 0 10px;
+      margin: 5px 0;
       color: $brown;
     }
   }
