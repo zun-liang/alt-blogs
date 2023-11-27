@@ -255,6 +255,19 @@ nav {
     font-size: 22px;
     font-style: italic;
   }
+   figure {
+     margin: 0 auto;
+	img {
+	  border-radius: 1em;
+	}
+	figcaption {
+	  margin: 0 auto;
+	  font-size: 16px;
+	  @include mobile {
+	    font-size: 14px;
+	  }
+	}
+  }
 
   .comments {
     margin-top: 10px;
