@@ -10,7 +10,7 @@ Here is a list of resources that I found helpful to create an awesome Github pro
 - [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
 
 <figure>
-  <img src="/images/badges.png" alt="skills badges"/>
+  <img src="https://raw.githubusercontent.com/zun-liang/alt-blogs/master/images/badges.png" alt="skills badges"/>
   <figcaption>Skill badges in my profile</figcaption>
 </figure>
 
@@ -19,7 +19,7 @@ Here is a list of resources that I found helpful to create an awesome Github pro
 - [Shields](https://shields.io/)
 
 <figure>
-  <img src="/images/shields.png" alt="email badge" />
+  <img src="https://raw.githubusercontent.com/zun-liang/alt-blogs/master/images/shields.png" alt="email badge" />
   <figcaption>My email address badge created by shields</figcaption>
 </figure>
 
@@ -30,14 +30,14 @@ Here is a list of resources that I found helpful to create an awesome Github pro
   It supports "Github Stats Card", "Github Extra Pins", "Github Gist Pins", "Top Language Card", and "WakaTime Stats Card".
 
 <figure>
-  <img src="/images/top-language-card.png" alt="top language card"/>
+  <img src="https://raw.githubusercontent.com/zun-liang/alt-blogs/master/images/top-language-card.png" alt="top language card"/>
   <figcaption>My "Top Language Card"</figcaption>
 </figure>
 
 - [Github Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter)
 
 <figure>
-  <img src="/images/profile-views.png" alt="profile views badge"/>
+  <img src="https://raw.githubusercontent.com/zun-liang/alt-blogs/master/images/profile-views.png" alt="profile views badge"/>
   <figcaption>My profile views</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ Here is a list of resources that I found helpful to create an awesome Github pro
 - [Show off your coding stats on your GitHub Profile using WakaTime](https://medium.com/@JakenH/show-off-your-coding-stats-on-your-github-profile-using-wakatime-ce3ceb1063b5)
 
 <figure>
-  <img src="/images/wakatime.png" alt="wakatime summary"/>
+  <img src="https://raw.githubusercontent.com/zun-liang/alt-blogs/master/images/wakatime.png" alt="wakatime summary"/>
   <figcaption>My WakaTime summary</figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ After you set it up in your profile, it may take some time to display in your RE
 - [summary: The Disclosure Summary element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/summary)
 
 <figure>
-  <img src="/images/details.gif" alt="details and summary example"/>
+  <img src="https://raw.githubusercontent.com/zun-liang/alt-blogs/master/images/details.gif" alt="details and summary example"/>
 <figcaption>Fold and unfold my toolset</figcaption>
 </figure>
 
