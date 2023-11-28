@@ -110,6 +110,10 @@ strong, b {
 
 img {
   max-width: 100%;
+  width: 400px;
+  @include mobile {
+    width: 300px;
+  }
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -282,7 +286,7 @@ figcaption {
 }
 }	
 
-pre {
+ pre {
   background-color: $darkGray;
   color: white;
   padding: 1em;
