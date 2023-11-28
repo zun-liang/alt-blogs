@@ -283,10 +283,8 @@ figcaption {
 }	
 
 pre {
-  background-color: gray;
+  background-color: $darkGray;
   color: white;
-  border-radius: 10px;
-  overflow-x: scroll;
 }
 
 .page {
