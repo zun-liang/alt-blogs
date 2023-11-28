@@ -73,7 +73,5 @@ title: Firestore Data Structure
       ...
   }
   ...
-  }
-    </p>
-</code></pre>
+  }</p></code></pre>
 <p>This data structure is effective for managing data and establishing security rules in line with the specific needs of my project.</p>
