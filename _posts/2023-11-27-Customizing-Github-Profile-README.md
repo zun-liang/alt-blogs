@@ -83,6 +83,10 @@ After you set it up in your profile, it may take some time to display in your RE
 
   This is the first time that I learned that SVGs can get customized by HTML and CSS. I didn't utilize this in my current README, but I probably will try it in the future.
 
+### Banner
+- [Github Profile Header Generator](https://leviarista.github.io/github-profile-header-generator/)
+- [README Github Banner](https://www.figma.com/community/file/1206877665795271691)
+  
 ### Social Icons
 
 - [Special icons for social accounts on GitHub](https://dev.to/yoshi389111/special-icons-for-social-accounts-on-github-404k)
